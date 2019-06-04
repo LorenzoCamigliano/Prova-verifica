@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Forse: 1 2 
+=======
+Commit: 1 2 3 4
+>>>>>>> FIX_BUG
